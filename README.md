@@ -1,2 +1,2 @@
 # auto-flood-screen
-自动刷屏
+使用Selenium实现直播平台的自动刷屏
