@@ -15,7 +15,7 @@ public class Test01 {
 	public static void main(String[] args) throws Throwable {
 
 		// 设置驱动位置
-		System.setProperty("webdriver.chrome.driver", "D:/eclipse_workspace/automation/driver/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
 		
 		// 创建一个驱动对象
 		WebDriver driver = new ChromeDriver();
